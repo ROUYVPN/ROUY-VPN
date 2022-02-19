@@ -1,5 +1,5 @@
 {"Version":"1.1",
-"Url":"https://github.com/ROUYVPN/ROUY-VPN/raw/main/royu.zip" ,
+"Url":"https://github.com/ROUYVPN/ROUY-VPN/raw/main/rouy.zip" ,
 "Changelog":"ROUY VPN
 รายละเอียดภายในแอป
 แก้ไขรายละเอียดครับ
